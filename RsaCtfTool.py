@@ -16,7 +16,7 @@ this stuff is worth it, you can buy me a beer in return.
 
 from Crypto.PublicKey import RSA
 import signal
-import gmpy
+import gmpy2
 from libnum import *
 import requests
 import re
